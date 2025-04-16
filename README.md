@@ -64,5 +64,6 @@
        - Navigate to the Amazon EC2 console
        - Copy the Public IPv4 address of the MonolithicAppServer instance, and load it in a new browser tab, website displays.
        - The page is available at http:// instead of https://. Your browser might indicate that the site isn't secure because it doesn't have a valid SSL/TLS certificate. You can ignore the warning in this development environment.
-       - 
+- **Task 2.2: Analyze how the monolithic application runs**
+
   
